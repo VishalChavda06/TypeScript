@@ -6,8 +6,8 @@ export default async function UsersPage() {
 
   return (
     <div>
-      <h1 className="text-3xl font-bold mb-6">
-        Users
+      <h1 className="text-3xl font-bold mb-6 text-blue-950">
+        Users List
       </h1>
 
       <div className="bg-blue-950 rounded-2xl shadow p-6">
